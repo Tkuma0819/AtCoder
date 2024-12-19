@@ -1,0 +1,33 @@
+a = list (map(int,input().split()))
+print(a)
+
+color = []
+ans = 0
+
+配列の値の取り出し
+print(a[0])
+
+for文（繰り返し）
+for i in range():
+    print(f"i= ｛i｝")
+
+if文（条件分岐）
+if a[0] == 1:
+   pritn("same")
+else:
+　 print("diffrent")
+
+
+for i in renge(4):
+    if a[i] not in color:
+         color.append(a[i])
+    else:
+         ans += 1
+         color.remove(a[i})
+print(ans)
+
+
+nyuuryoku 
+2121
+syuturyoku
+2
