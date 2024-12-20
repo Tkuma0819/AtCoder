@@ -34,7 +34,7 @@ m = list(map(int,input().split()))
 print(m)
 for i in m:
     print(i)
-"""
+
 f = map(input().split())
 print(f)
 """
